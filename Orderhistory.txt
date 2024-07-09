@@ -1,0 +1,51 @@
+2909  Placed
+CART: 
+
+prawns Q: 3 P: 30
+prawns Q: 4 P: 30
+Pakoray Q: 5 P: 18
+TOTAL: 300
+
+9680  Placed
+CART: 
+
+prawns Q: 29 P: 30
+prawns Q: 10 P: 30
+TOTAL: 1170
+
+389  Placed
+CART: 
+
+prawns Q: 11 P: 30
+TOTAL: 330
+
+4654  Placed
+CART: 
+
+prawns Q: 4 P: 30
+TOTAL: 120
+
+42  Placed
+CART: 
+
+Nuggets Q: 1 P: 20
+TOTAL: 20
+
+2488  Placed
+CART: 
+
+Mousse Q: 12 P: 40
+TOTAL: 480
+
+1716 hamzaasad26 Placed
+CART: 
+
+Finger Fish Q: 1 P: 15
+TOTAL: 15
+
+302 22i-1119 Placed
+CART: 
+
+Paratha Q: 2 P: 15
+TOTAL: 30
+
